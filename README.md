@@ -1,8 +1,11 @@
 
+
 # Sudoku Solver
 This Java program displays and solves Sudoku puzzles using a backtracking algorithim. It has 60 data files of example Sudoku puzzles.
 
 Datasets used are from http://lipas.uwasa.fi/~timan/sudoku/ and https://github.com/mjzarrin/sodoku/tree/master/src/data
+
+**Check out the Javadoc [on my website](https://afitz.space/pages/Sudoku-Javadoc)!**
 
 ### Example Input and Output
 
