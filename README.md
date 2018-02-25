@@ -5,15 +5,17 @@ This Java program displays and solves Sudoku puzzles using a backtracking algori
 Datasets used are from http://lipas.uwasa.fi/~timan/sudoku/ and https://github.com/mjzarrin/sodoku/tree/master/src/data
 
 ### Example Input and Output
-> 100000089
-> 382070015
-> 000000600
-> 070064030
-> 613020548
-> 020510070
-> 006000000
-> 850090264
-> 930000001
+
+    100000089
+    382070015
+    000000600
+    070064030
+    613020548
+    020510070
+    006000000
+    850090264
+    930000001
+#
 
     Your Original Sudoku: 
      1   #   # | #   #   # | #   8   9
